@@ -1,1 +1,2 @@
-# Docs
+# BrainFlight Embodied AI Lab
+Welcome!
